@@ -8,6 +8,6 @@
 </div>
 
 <div style="display:flex; flex-direction: row; column-gap: 50px;">
-  <a href="mailto:monickkmarinho@gmail.com">E-mail</a>
-  <a href="https://www.linkedin.com/in/monick-marinho-a8a8a72a3/">LinkedIn</a>
+  <a href="mailto:monickkmarinho@gmail.com"  target="_blank">E-mail</a>
+  <a href="https://www.linkedin.com/in/monick-marinho-a8a8a72a3/" target="_blank">LinkedIn</a>
 </div>
