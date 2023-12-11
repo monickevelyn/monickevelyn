@@ -7,4 +7,5 @@
   <img width="48" height="48" src="https://img.icons8.com/fluency/48/javascript.png" alt="javascript"/>
 </div>
 
-<a href="mailto:monickkmarinho@gmail.com">E-mail</a>
+<a href="mailto:monickkmarinho@gmail.com" style="color: white; border: 2px solid rgb(144, 113, 144); border-radius: 20px; padding: 10px;">E-mail</a>
+
