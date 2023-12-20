@@ -9,12 +9,12 @@
 🗂️ <a href="https://portfolio-indol-gamma-99.vercel.app/"  target="_blank">Portfólio</a>
 
 <br>
-<div  style="display: inline_block">
+<div style="display: inline_block">
   <a href="https://github.com/monickevelyn/github-readme-stats">
-    <img height=200 align="center" width="470px" src="https://github-readme-stats.vercel.app/api?username=monickevelyn&theme=midnight-purple&show_icons=true" />
+    <img height=200 width=420 align="center" src="https://github-readme-stats.vercel.app/api?username=monickevelyn&theme=midnight-purple&show_icons=true" />
   </a>
   <a href="https://github.com/monickevelyn/convoychat">
-    <img height=200 align="center" width="450px" src="https://github-readme-stats.vercel.app/api/top-langs?username=monickevelyn&layout=compact&langs_count=8&card_width=320&theme=midnight-purple&show_icons=true" />
+    <img height=200 width=400 align="center"src="https://github-readme-stats.vercel.app/api/top-langs?username=monickevelyn&layout=compact&langs_count=8&card_width=320&theme=midnight-purple&show_icons=true" />
   </a>
 </div>
 
