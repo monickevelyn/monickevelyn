@@ -4,7 +4,7 @@
 <br>
 💻 Foco em Front-End.
 <br>
-💡Estudando Typescript.
+💡Estudando ReactJS.
 
 🗂️ <a href="https://portfolio-indol-gamma-99.vercel.app/"  target="_blank">Portfólio</a>
 
