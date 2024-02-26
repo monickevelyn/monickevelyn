@@ -6,7 +6,7 @@
 <br>
 💡Estudando ReactJS.
 
-🗂️ <a href="https://portfolio-indol-gamma-99.vercel.app/"  target="_blank">Portfólio</a>
+🗂️ <a href="https://portfolio2024-bice.vercel.app/"  target="_blank">Portfólio</a>
 
 <br>
 <div style="display: inline_block">
